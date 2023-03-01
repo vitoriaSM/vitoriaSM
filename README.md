@@ -2,7 +2,7 @@
 Passando o tempo e programando 💻
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoriaSM&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriaSM&layout=compact)](https://github.com/vitoriaSM/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
   <a href = "mailto:medeirosvitoria452@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
