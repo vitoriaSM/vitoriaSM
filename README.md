@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olá! Eu sou a Vitória!!
+Atualmente estudo infomática 💻
+
 
 <!--
 **vitoriaSM/vitoriaSM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
