@@ -14,6 +14,8 @@ Passando o tempo e programando 💻
 <img align="center" alt="Vitoria-Js" height="30" width="40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
  
 </div>
+  
+  
 <!--
 **vitoriaSM/vitoriaSM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
