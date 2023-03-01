@@ -1,5 +1,5 @@
 ### Olá! Eu sou a Vitória!!
-Atualmente cursando infomática 💻
+Passando o tempo e programando 💻
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoriaSM&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriaSM&layout=compact)](https://github.com/vitoriaSM/github-readme-stats)
